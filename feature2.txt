@@ -1,1 +1,2 @@
 ブランチfeature2専用のテキスト
+ブランチfeature2でaddしてmasterでコミットしてプッシュしてみる
